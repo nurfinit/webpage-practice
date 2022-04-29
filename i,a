@@ -1,0 +1,49 @@
+<!doctype html>
+ <html lang="en">
+  <head>
+   <meta charset="utf-8">
+   <title>If I Can Add A Picture, I Will Be Happy!</title>
+   <style>
+    
+    h1 {color: royalblue;}
+    h3 {color: darkolivegreen;}
+    blockquote {color: red;}
+    div_musicpara {color: lightbluesky;}
+    
+   </style>
+  </head>   
+    
+<body>
+    <h1>Invent, Animate</h1> 
+     <h2>Contents:</h2>
+      <ol>
+        <li><a href="#div_lyrics">Lyrics</a></li>
+        <li><a href="#div_musicianship">Musicianship</a></li>
+        <li><a href="#div_album_art">Album Art</a></li>
+      </ol>
+     
+     <div id="div_lyrics">
+     <h3>Lyrics</h3>
+      <blockquote>"<i>No time for rest when time is everything<br>As I'm waking up<br>I'm traveling on borrowed time<br>There I am bound, a fraction in time<br>A fraction in time, the end and now</i>"<br><br>-Reflection Room</blockquote><hr><blockquote>"<i>Detrimental bliss<br>I would give it all up to start again<br>Lost track of time<br>And if I had a chance, I would lose it all</i>"<br><br>-Sol</p></blockquote>
+       <cite><p><a href="https://www.genius.com/Invent-animate-reflection-room-lyrics">Genius</a></p></cite>
+     </div>
+     <div id="div_musicianship">
+     <h3>Musicianship</h3>
+       <p>Guitar work is crazy.<br>Drums are nuts.<br>Vocals reach a range of emotions.<br>Atmosphere conveys just as much emotion.</p>
+     </div>
+     <div id="div_album_art">
+     <h3>Album Art</h3>
+       <img src="https://f4.bcbits.com/img/a1630279800_16.jpg" width="250" height="250"><br>
+       <strong>Everchanger - 2014</strong><br><br><br>
+       <img src="https://f4.bcbits.com/img/a2868229323_16.jpg" width="250" height="250"><br>
+       <strong>Stillworld - 2016</strong><br><br><br>
+       <img src="https://f4.bcbits.com/img/a0651566958_16,jpg" width="250" height="250"><br>
+       <strong>Greyview - 2020</strong><br><br><br>
+       <img src="https://images.genius.com/51944d966910b7567ea1ab391c36d6c0.1000x1000x1.png" width="250" height="250"><br>
+       <strong>The Sun Sleeps, As If It Never Was - 2021</strong>
+     </div>
+    
+</body>    
+    
+
+</html>
